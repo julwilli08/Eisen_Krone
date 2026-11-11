@@ -1,0 +1,49 @@
+==============================================================
+IDEEN FREIGABE
+==============================================================
+
+ZWECK
+Hier werden die Ideen aus IDEEN.txt geprüft und freigegeben. Keine
+Idee wird umgesetzt, bevor sie hier den Status "approved" hat. So
+behalten wir den Überblick, was geplant, in Arbeit oder erledigt ist,
+und es passieren keine unabgesprochenen Änderungen im Projekt.
+
+ABLAUF
+1. Eine neue Idee steht in IDEEN.txt mit Status "offen".
+2. Die andere Partei schaut sich die Idee an und bespricht sie kurz wen es fragen dazu gibt. Geprüft wird:
+   - Ist die Beschreibung verständlich (3-10 Sätze, Wie / Wieso /
+     Änderungen)?
+   - Ist die Idee klein genug? Grosse Ideen werden in Schritte
+     aufgeteilt, bevor sie freigegeben werden.
+   - Passt sie zum Projekt, und gibt es Konflikte mit anderen Ideen
+     oder bestehenden Teilen?
+3. Die Idee wird hier eingetragen und bekommt einen Status:
+   approved / abgelehnt / überarbeiten
+4. Nur bei "approved" darf mit der Arbeit begonnen werden. Danach wird
+   der Status auf "in Arbeit" und am Ende auf "erledigt" gesetzt.
+
+STATUS
+- offen:          noch nicht geprüft (nur in IDEEN.txt)
+- approved:       freigegeben, darf umgesetzt werden
+- überarbeiten:   Idee muss genauer oder kleiner gemacht werden
+- abgelehnt:      wird nicht umgesetzt (Begründung dazuschreiben)
+- in Arbeit:      Umsetzung läuft
+- erledigt:       umgesetzt und fertig
+
+REGELN
+- Immer nur wenige kleine Ideen gleichzeitig in Arbeit.
+- Bei Ablehnung oder "überarbeiten" kurz begründen.
+- Nach der Umsetzung kurz notieren, was tatsächlich geändert wurde.
+
+VORLAGE
+--------------------------------------------------------------
+Idee:        <Titel aus IDEEN.txt>
+Geprüft von: <Name>            Datum: <TT.MM.JJJJ>
+Status:      approved / überarbeiten / abgelehnt
+Begründung:  <kurz, warum>
+Umsetzung:   <wer macht es, was wurde geändert, Stand>
+--------------------------------------------------------------
+
+==============================================================
+FREIGABE-LISTE
+==============================================================

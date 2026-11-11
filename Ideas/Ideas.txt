@@ -1,0 +1,42 @@
+==============================================================
+IDEEN
+==============================================================
+
+ZWECK
+Hier kommen alle Ideen fürs Projekt rein. Jede Idee wird ausführlich
+aufgeschrieben, nicht nur als Stichwort. Zu jeder Idee gehören 3-10
+Sätze, die erklären, was die Idee ist und was sie im Projekt bringen
+soll. Wer die Idee später liest, muss sie ohne Nachfragen verstehen.
+
+ABLAUF
+1. Idee unten in diesem File eintragen (Vorlage beachten).
+2. Die Idee wird besprochen und im File IDEEN_FREIGABE.txt als
+   "approved" oder "abgelehnt" eingetragen.
+3. Erst nach der Freigabe wird mit der Arbeit angefangen.
+
+WICHTIG BEIM SCHREIBEN
+- Direkt dazuschreiben, WIE die Idee umgesetzt wird, WARUM sie sinnvoll
+  ist und WAS dafür im Projekt geändert werden muss (Dateien, Systeme,
+  Werte, Abhängigkeiten).
+- KI darf als Hilfe benutzt werden, aber die Ideen sollen möglichst
+  von uns Menschen kommen.
+- Immer nur kleine Dinge auf einmal. Keine grossen Umbauten, damit
+  nicht zu viele Änderungen gleichzeitig passieren und nichts kaputt
+  geht. Grosse Ideen in kleine Schritte aufteilen.
+
+VORLAGE
+--------------------------------------------------------------
+Titel:      <kurzer Name der Idee>
+Von:        <Name>            Datum: <TT.MM.JJJJ>
+Beschreibung (3-10 Sätze):
+  <Was ist die Idee? Was soll sie bringen?>
+Wie:        <wie wird sie umgesetzt?>
+Wieso:      <warum ist sie sinnvoll?>
+Änderungen: <was muss dafür geändert werden?>
+Aufwand:    klein / mittel (gross -> in Schritte aufteilen)
+Status:     offen  (Freigabe siehe Ideas_release.txt)
+--------------------------------------------------------------
+
+==============================================================
+IDEEN-LISTE
+==============================================================
